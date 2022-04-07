@@ -1,0 +1,8 @@
+Link para download: https://git-scm.com/downloads
+Git bash é um terminalextendido para otimizar o uso do git
+O comando git clone cria clones com a url do github
+o comando commit -m cria commit com comentarios
+o comando git push origin main atualiza o git ao github
+o comando cd com o nome do repositorio entra dentro dele
+git status identifica o que está dentro da pasta
+o comando git add. ele adiciona o que foi colocado de forma local 
